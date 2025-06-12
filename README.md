@@ -161,30 +161,30 @@ Welcome to my 30-day intensive AWS training log, where I explored core and advan
 ### 🖼️ DevOps Lifecycle with AWS Tooling  
 A high-level view of how AWS integrates with a DevOps toolchain for CI/CD.
 
-![DevOps Lifecycle](https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2023/01/05/devops-2237_5.png)
+<img src="https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2023/01/05/devops-2237_5.png" alt="DevOps Lifecycle" width="800" height="400"/>
 
 ---
 
 ### 🖼️ Typical AWS DevOps Architecture  
 A single-account AWS DevOps deployment with CodePipeline and other services.
 
-![AWS DevOps Diagram](https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2022/02/22/Fig1-xAcct-pipeline-1024x559.png)
+<img src="https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2022/02/22/Fig1-xAcct-pipeline-1024x559.png" alt="AWS DevOps Diagram" width="800" height="400"/>
 
 ---
 
 ### 🖼️ Lambda + API Gateway Pattern  
 Classic event-driven serverless architecture for REST APIs.
 
-![Lambda API Gateway](https://miro.medium.com/v2/resize:fit:1400/1*WK_-gPDoCp29u8_MfStF7g.png)
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*WK_-gPDoCp29u8_MfStF7g.png" alt="Lambda API Gateway" width="800" height="400"/>
 
 ---
 
 ### 🖼️ AWS Well-Architected Framework – 5 Pillars  
 Visual representation of the key principles of building secure, reliable, and efficient cloud infrastructure.
 
-![Well-Architected Pillars](https://miro.medium.com/v2/resize:fit:1400/0*tTgZrVxPgTZlRj_t.png)
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*tTgZrVxPgTZlRj_t.png" alt="Well-Architected Pillars" width="800" height="400"/>
 
----
+
 
 ## 📚 Certification Goal
 
